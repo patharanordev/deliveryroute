@@ -25,13 +25,13 @@ Ex.
 So you can define your route with "AM5" etc.
 ```
 
-After you have added routes already, you can calculate delivery cost by using command `findcost` and following  first alphbet of source/destination in uppercase. In each node will be separate be `-`, please refer example below :
+After you have added routes already, you can calculate delivery cost by using command `findcost` and following  first alphbet of source/destination in uppercase. In each node will be separate with `-`, please refer example below :
 
 ```
 findcost A-B-C
 ```
 
-If your route can't be solved, it will show `No Such Route`. Show command type `help`.
+If your route can't be solved, it will show `No Such Route`. Show all commands, type `help`.
 
 Command :
 ```
